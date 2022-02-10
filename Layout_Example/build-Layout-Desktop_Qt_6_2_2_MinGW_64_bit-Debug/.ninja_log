@@ -1,0 +1,9 @@
+# ninja log v5
+5	2768	6655358434340059	Layout_autogen/timestamp	b3646b96ade7f49f
+5	2768	6655358434340059	Layout_autogen/mocs_compilation.cpp	b3646b96ade7f49f
+5	2768	6655358434340059	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Layout_Example/build-Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Layout_autogen/timestamp	b3646b96ade7f49f
+5	2768	6655358434340059	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Layout_Example/build-Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Layout_autogen/mocs_compilation.cpp	b3646b96ade7f49f
+2771	8123	6655358491559564	CMakeFiles/Layout.dir/main.cpp.obj	8f0042c72d8b64f5
+2787	8207	6655358492413779	CMakeFiles/Layout.dir/Layout_autogen/mocs_compilation.cpp.obj	49eada6954e58c45
+2797	8338	6655358493735587	CMakeFiles/Layout.dir/mainwindow.cpp.obj	101eddedc7622db9
+8340	10769	6655358517602845	Layout.exe	799ac7011602aff

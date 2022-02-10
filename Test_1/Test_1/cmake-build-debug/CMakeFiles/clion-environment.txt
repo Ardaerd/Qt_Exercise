@@ -1,0 +1,4 @@
+ToolSet: w64 10.0 (local)@D:\Qt_app\Tools\mingw900_64
+Options: 
+
+Options:

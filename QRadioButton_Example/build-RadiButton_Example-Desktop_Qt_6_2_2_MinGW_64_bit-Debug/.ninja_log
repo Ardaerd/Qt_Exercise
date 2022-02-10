@@ -1,0 +1,15 @@
+# ninja log v5
+2	1148	6660455842590283	RadiButton_Example_autogen/timestamp	b5c891a4dddc55b6
+2	1148	6660455842590283	RadiButton_Example_autogen/mocs_compilation.cpp	b5c891a4dddc55b6
+2	1148	6660455842590283	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/QRadioButton_Example/build-RadiButton_Example-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/RadiButton_Example_autogen/timestamp	b5c891a4dddc55b6
+2	1148	6660455842590283	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/QRadioButton_Example/build-RadiButton_Example-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/RadiButton_Example_autogen/mocs_compilation.cpp	b5c891a4dddc55b6
+1150	5623	6660455889687861	CMakeFiles/RadiButton_Example.dir/RadiButton_Example_autogen/mocs_compilation.cpp.obj	c24b6b44a401acea
+1156	5952	6660455892944677	CMakeFiles/RadiButton_Example.dir/main.cpp.obj	7750a47e07dfd28f
+1160	6298	6660455896444261	CMakeFiles/RadiButton_Example.dir/mainwindow.cpp.obj	3bb7dc307cafdd33
+6299	6785	6660455901174665	RadiButton_Example.exe	a7b5747df8095be9
+11	340	6660456362687216	RadiButton_Example_autogen/timestamp	b5c891a4dddc55b6
+11	340	6660456362687216	RadiButton_Example_autogen/mocs_compilation.cpp	b5c891a4dddc55b6
+11	340	6660456362687216	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/QRadioButton_Example/build-RadiButton_Example-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/RadiButton_Example_autogen/timestamp	b5c891a4dddc55b6
+11	340	6660456362687216	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/QRadioButton_Example/build-RadiButton_Example-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/RadiButton_Example_autogen/mocs_compilation.cpp	b5c891a4dddc55b6
+345	3603	6660456395251500	CMakeFiles/RadiButton_Example.dir/mainwindow.cpp.obj	3bb7dc307cafdd33
+3604	3942	6660456398559265	RadiButton_Example.exe	a7b5747df8095be9

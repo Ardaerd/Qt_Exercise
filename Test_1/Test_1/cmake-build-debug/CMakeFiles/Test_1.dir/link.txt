@@ -1,0 +1,3 @@
+"C:\CLion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Test_1.dir/objects.a
+D:\Qt_app\Tools\mingw900_64\bin\ar.exe cr CMakeFiles\Test_1.dir/objects.a @CMakeFiles\Test_1.dir\objects1.rsp
+D:\Qt_app\Tools\mingw900_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Test_1.dir/objects.a -Wl,--no-whole-archive -o Test_1.exe -Wl,--out-implib,libTest_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Test_1.dir\linklibs.rsp

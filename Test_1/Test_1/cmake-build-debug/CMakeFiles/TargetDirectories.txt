@@ -1,0 +1,4 @@
+C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/Test_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/Test_1/cmake-build-debug/CMakeFiles/Test_1.dir
+C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/Test_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/Test_1/cmake-build-debug/CMakeFiles/Test_1_autogen.dir

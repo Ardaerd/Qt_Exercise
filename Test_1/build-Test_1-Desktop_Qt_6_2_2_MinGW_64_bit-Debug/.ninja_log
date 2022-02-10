@@ -1,0 +1,21 @@
+# ninja log v5
+4262	5622	6659668933408445	Test_1.exe	db750ed30e1d13de
+16	766	6659668884900802	Test_1_autogen/timestamp	a667dda6b64dfa3
+1623	7306	6645903193878095	CMakeFiles/Test_1.dir/main.cpp.obj	6fc53277a8d62bdb
+16	766	6659668884900802	Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+1610	6738	6645903188180180	CMakeFiles/Test_1.dir/Test_1_autogen/mocs_compilation.cpp.obj	247d7b17a2481fe8
+16	766	6659668884900802	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/timestamp	a667dda6b64dfa3
+16	766	6659668884900802	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+772	4261	6659668919893910	CMakeFiles/Test_1.dir/mainwindow.cpp.obj	577cab0f40431d22
+8	469	6659670155356709	Test_1_autogen/timestamp	a667dda6b64dfa3
+8	469	6659670155356709	Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+8	469	6659670155356709	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/timestamp	a667dda6b64dfa3
+8	469	6659670155356709	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+473	3095	6659670181603438	CMakeFiles/Test_1.dir/mainwindow.cpp.obj	577cab0f40431d22
+3096	3410	6659670184643981	Test_1.exe	db750ed30e1d13de
+8	454	6659672173283014	Test_1_autogen/timestamp	a667dda6b64dfa3
+8	454	6659672173283014	Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+8	454	6659672173283014	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/timestamp	a667dda6b64dfa3
+8	454	6659672173283014	C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/Test_1/build-Test_1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Test_1_autogen/mocs_compilation.cpp	a667dda6b64dfa3
+461	2968	6659672198455269	CMakeFiles/Test_1.dir/mainwindow.cpp.obj	577cab0f40431d22
+2969	3287	6659672201444152	Test_1.exe	db750ed30e1d13de

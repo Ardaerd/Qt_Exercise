@@ -1,0 +1,13 @@
+void MainWindow::on_pushButton_Read_clicked()
+{
+    QFile file("C:/Users/arda/OneDrive/Cs_201_Lesson/Qt_Example/QFile_Example/QFile/" + this->fileName);
+
+    if (!file.open(QFile::ReadOnly | QFile::Text))
+        QMessageBox::warning(this,"Not open","File is not open!");
+
+    QTextStream in(&file);
+    QString text = in.readAll();
+    ui->plainTextEdit->setPlainText(text);
+    file.close();
+}
+a

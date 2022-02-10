@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ProgrammingLanguages">
+        <file>Image/c-.png</file>
+        <file>Image/java.png</file>
+        <file>Image/js.png</file>
+        <file>Image/python.png</file>
+    </qresource>
+</RCC>
